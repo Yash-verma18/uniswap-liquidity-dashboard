@@ -1,11 +1,4 @@
-In the root folder `README.md`, you can provide an **overview of the project** that gives high-level information about the purpose, structure, and setup of the project. It should act as the "entry point" for anyone new to the project and guide them toward the specific `README.md` files for the backend and frontend.
-
----
-
-### **Template for Root `README.md`**
-
 ```markdown
-# Project Name
 
 ## Overview
 Created an MVP for liquidity Monitoring and setting up alerts for different pools. It consists of a **frontend** and a **backend**, each with its own functionality and setup.
