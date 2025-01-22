@@ -1,0 +1,60 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependency directories
+node_modules/
+
+# Environment variables
+.env
+
+# Build directories
+dist/
+build/
+
+# Temporary files and directories
+*.tmp
+*.temp
+.tmp/
+.temp/
+
+# Debug files
+*.log
+*.pid
+*.seed
+*.pid.lock
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE-specific files
+.idea/
+.vscode/
+*.swp
+
+# Coverage directories for testing
+coverage/
+
+# Local server files
+*.local
+
+# AWS SAM build files
+.aws-sam/
+
+# Docker files
+docker-compose.override.yml
+.env.local
+
+# MongoDB lock files
+*.lock
+
+# Static files
+public/uploads
+uploads/
+
+# Git-specific files
+.git/
