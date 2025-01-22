@@ -1,7 +1,7 @@
 import express from 'express';
 
 import { initiateAlert } from '../service/alert';
-import { getPoolData, getTopPools } from '../service/uniswap';
+import { getTopPools } from '../service/uniswap';
 
 const router = express.Router();
 
