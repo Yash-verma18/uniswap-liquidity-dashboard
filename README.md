@@ -1,4 +1,4 @@
-```markdown
+
 
 ## Overview
 Created an MVP for liquidity Monitoring and setting up alerts for different pools. It consists of a **frontend** and a **backend**, each with its own functionality and setup.
